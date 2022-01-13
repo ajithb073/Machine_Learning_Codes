@@ -1,1 +1,4 @@
 catboost==0.2.6
+transformers==4.15.0
+pandas
+nltk
